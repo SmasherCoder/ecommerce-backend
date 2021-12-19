@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   ## Project Image
-  ![Screenshot of Project](./ecommerce.jpg)
+  ![Screenshot of Project](.\ecommerce.jpg)
   
   ## Installation 
   Download zip, install dependencies, source schema.sql, and seed the database by running npm run seed.
